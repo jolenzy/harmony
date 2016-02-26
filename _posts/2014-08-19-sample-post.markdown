@@ -23,8 +23,6 @@ A blockquote:
 Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.
 
 
-Example code: 
-
 
 A list: 
 
